@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+	<article>
+		<title>깔끔하다</title>
+		<writer>배성현</writer>
+		<hitcnt>100</hitcnt>
+	</article>
+	<article>
+		<title>분위기 있다.하다</title>
+		<writer>박서영</writer>
+		<hitcnt>200</hitcnt>
+	</article>
+		<article>
+		<title>미쳤다</title>
+		<writer>박지원</writer>
+		<hitcnt>50</hitcnt>
+	</article>
+</articles>
