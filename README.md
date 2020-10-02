@@ -3,58 +3,21 @@
 
 ## Funtion
 
-1. Multi Chatting Function
-2. Sending Location
-3. Making Chatting Room
-4. Designate Nickname
+1. jQuery를 통한 선호 메뉴 투표, 로그인 및 회원가입 기능 구현
+2. Mysql을 통한 카페 음료 종류, 이름, 갯수 관리
+3. cafe controller를 통한 메뉴 검색 기능 구현(최소 한 글자 검색)
+4. cafe 음료 주문시 count up을 통해 추천메뉴에 등재되게 하는 기능 구현
 
 ## URL
-https://skku-club.appspot.com
+localhost
 
 
 ## ScreenShot
 <div>
-  <img width="800" src="img/MAIN.PNG"/>
+  <img width="800" src="img/MAIN.PNG"/><br>
+  <img width="800" src="img/login.PNG"/><br>
+  <img width="800" src="img/search.PNG"/><br>
 </div>
 
-## npm install 
-
-```nodejs
-npm install express
-npm install nodejs
-npm install bootstrap
-```
-
-## package.json
-
-```json
-{
-  "name": "chat-app",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server/server.js",
-    "test": "mocha server/**/*.test.js",
-    "test-watch": "nodemon --exec \"npm test\""
-  },
-  "engines": {
-    "node": "11.2.0"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "express": "^4.16.4",
-    "moment": "^2.23.0",
-    "popper": "^1.0.1",
-    "socket.io": "^2.2.0",
-    "webkit": "0.0.0"
-  },
-  "devDependencies": {
-    "expect": "^23.6.0",
-    "mocha": "^5.2.0"
-  }
-}
-```
-
+## Server
+Tomcat v9.0 Server
