@@ -14,8 +14,7 @@ https://skku-club.appspot.com
 
 ## ScreenShot
 <div>
-  <img width="400" src="img/MAIN.PNG"/>
-  <img width="400" src ="https://user-images.githubusercontent.com/37185394/59769568-60275c80-92e1-11e9-8db9-adca2ef14997.JPG"/>
+  <img width="800" src="img/MAIN.PNG"/>
 </div>
 
 ## npm install 
