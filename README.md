@@ -1,6 +1,9 @@
 # SSAFY_CAFE
 삼성청년소프트웨어4기 SSAFY CAFE 개발작품입니다.
 
+## Server
+Tomcat v9.0 Server
+
 ## Funtion
 
 1. jQuery를 통한 선호 메뉴 투표, 로그인 및 회원가입 기능 구현
@@ -18,6 +21,3 @@ localhost
   <img width="800" src="img/search.PNG"/><br>
   <img width="800" src="img/login.PNG"/><br>
 </div>
-
-## Server
-Tomcat v9.0 Server
